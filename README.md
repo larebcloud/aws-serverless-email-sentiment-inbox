@@ -1,4 +1,4 @@
-<img width="1176" height="675" alt="Screenshot 2026-01-17 at 11 01 11 AM" src="https://github.com/user-attachments/assets/16b75734-4e13-4167-a318-2b0e9f021583" /># AWS Serverless Email Sentiment Inbox
+Serverless Email Sentiment Inbox
 An Intelligent, Event-Driven Email Processing System on AWS
 
 # Overview

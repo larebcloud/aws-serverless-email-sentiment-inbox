@@ -1,4 +1,4 @@
-# AWS Serverless Email Sentiment Inbox
+<img width="1176" height="675" alt="Screenshot 2026-01-17 at 11 01 11 AM" src="https://github.com/user-attachments/assets/16b75734-4e13-4167-a318-2b0e9f021583" /># AWS Serverless Email Sentiment Inbox
 An Intelligent, Event-Driven Email Processing System on AWS
 
 # Overview
@@ -78,5 +78,15 @@ aws-serverless-email-sentiment-inbox/
 Sentiment	Action
 NEGATIVE	Escalate / Flag as urgent
 POSITIVE	Auto-acknowledge / Archive
-NEUTRAL	Route to support queue
+NEUTRAL	Route to support queue!
+
 MIXED	Manual review
+
+# Output
+
+Cloudwatch logs
+
+<img width="1176" height="675" alt="Screenshot 2026-01-17 at 11 01 11 AM" src="https://github.com/user-attachments/assets/473afab0-2360-4a3c-be99-0389d7728d70" />
+
+
+

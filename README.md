@@ -86,7 +86,10 @@ MIXED	Manual review
 
 Cloudwatch logs
 
-<img width="1176" height="675" alt="Screenshot 2026-01-17 at 11 01 11 AM" src="https://github.com/user-attachments/assets/473afab0-2360-4a3c-be99-0389d7728d70" />
+<img width="1176" height="675" alt="Screenshot 2026-01-17 at 11 01 11 AM" src="https://github.com/user-attachments/assets/6a35ea95-4690-41bb-9dc5-ad1a199769f4" />
+
+
+
 
 
 
